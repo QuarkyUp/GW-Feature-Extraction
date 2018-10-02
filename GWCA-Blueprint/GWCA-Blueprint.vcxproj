@@ -157,11 +157,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CharrFarming.cpp" />
     <ClCompile Include="GWCA-Blueprint.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CharrFarming.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
